@@ -3,7 +3,7 @@
 ##  Description
 Implements a simple recommendation system using similarity logic.
 
-## 🚀 Features
+##  Features
 - Compares user preferences
 - Suggests similar items
 
