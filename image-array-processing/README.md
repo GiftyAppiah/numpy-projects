@@ -3,7 +3,7 @@
 ##  Description
 Simulates image processing using NumPy arrays.
 
-## 🚀 Features
+##  Features
 - Represents image as array
 - Adjusts brightness
 - Inverts colors
